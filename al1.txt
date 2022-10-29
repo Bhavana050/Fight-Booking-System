@@ -6,7 +6,7 @@
 body{  
   font-family: Calibri, Helvetica, sans-serif;  
   background-image:
-  url('');
+  url('https://fullhdpictures.com/wp-content/uploads/2016/06/Airlines-Wallpaper.jpg');
 }  
 .container {  
     padding: 50px;  
