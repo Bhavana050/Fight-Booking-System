@@ -6,7 +6,7 @@
 body{  
   font-family: Calibri, Helvetica, sans-serif;  
   background-image:
-  url('https://fullhdpictures.com/wp-content/uploads/2016/06/Airlines-Wallpaper.jpg');
+  url('https://github.com/AnkithSanga/Fight-Booking-System/blob/main/Booking/backgroundimg.jpg?raw=true');
 }  
 .container {  
     padding: 50px;  
