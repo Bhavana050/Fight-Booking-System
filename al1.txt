@@ -5,12 +5,12 @@
 <style>  
 body{  
   font-family: Calibri, Helvetica, sans-serif;  
-  background-color: pink;
+  background-color: pink;  
 }  
 .container {  
     padding: 50px;  
   background-image:
-  url('https://github.com/AnkithSanga/Fight-Booking-System/blob/main/Booking/backgroundimg.jpg?raw=true');
+url('"C:\Users\surin\Downloads\Airlines-Wallpaper.jpg"');
 }  
   
 input[type=text], input[type=password], textarea {  
