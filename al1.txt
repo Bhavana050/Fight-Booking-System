@@ -5,12 +5,12 @@
 <style>  
 body{  
   font-family: Calibri, Helvetica, sans-serif;  
-  background-image:
-  url('https://github.com/AnkithSanga/Fight-Booking-System/blob/main/Booking/backgroundimg.jpg?raw=true');
+  background-color: pink;
 }  
 .container {  
     padding: 50px;  
-  background-color: lightblue;  
+  background-image:
+  url('https://github.com/AnkithSanga/Fight-Booking-System/blob/main/Booking/backgroundimg.jpg?raw=true');
 }  
   
 input[type=text], input[type=password], textarea {  
