@@ -5,7 +5,8 @@
 <style>  
 body{  
   font-family: Calibri, Helvetica, sans-serif;  
-  background-color: pink;  
+  background-image:
+  url('');
 }  
 .container {  
     padding: 50px;  
